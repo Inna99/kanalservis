@@ -1,0 +1,10 @@
+.idea/
+app/__pycache__/
+venv
+test_google.csv
+quickstart.py
+temp_crb.py
+kanalservis/__pycache__/
+app/management/__pycache__/
+temp_google_docs.py
+app/management/commands/__pycache__/
