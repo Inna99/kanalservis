@@ -23,7 +23,7 @@ https://kanalservis.notion.site/kanalservis/Python-82f517c516d041b8aca227f0a44ed
     
     c. Разработка одностраничного web-приложения на основе Django или Flask. Front-end React.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee6a638-c52e-46a0-9c2d-cb518c955fb1/Untitled.png)
+  ![Image alt](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee6a638-c52e-46a0-9c2d-cb518c955fb1/Untitled.png)
     
 
 1. Решение на проверку передается в виде ссылки на проект на Github.
@@ -34,7 +34,7 @@ https://kanalservis.notion.site/kanalservis/Python-82f517c516d041b8aca227f0a44ed
 Всего за выполнение тестового задания можно получить 100 баллов, количество баллов выставляется согласно таблице ниже.
 Внимание! Работы соискателей, не выполнивших первые 3 пункта, не будут проверяться.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89099943-1cfb-4945-8d4f-c829e9829474/Untitled.png)
+![Image alt](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89099943-1cfb-4945-8d4f-c829e9829474/Untitled.png)
 
 1. При проверке под правильностью работы будет пониматься соответствие функционала программы поставленному ТЗ.
 2. При оценке читаемости кода, не требуется 100% соблюдения стандарта PEP 8, но код должен быть логичен и не перегружен, необходимо соблюдение отступов и логики названия переменных и структур данных.
